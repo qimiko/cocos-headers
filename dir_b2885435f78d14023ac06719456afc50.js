@@ -23,8 +23,8 @@ var dir_b2885435f78d14023ac06719456afc50 =
     [ "tilemap_parallax_nodes", "dir_24251483036455668e88f5fa771ba1c6.html", "dir_24251483036455668e88f5fa771ba1c6" ],
     [ "touch_dispatcher", "dir_9de5fa0b12f6aef424ec6696834764b6.html", "dir_9de5fa0b12f6aef424ec6696834764b6" ],
     [ "CCCamera.h", "d6/df2/_c_c_camera_8h.html", null ],
-    [ "CCConfiguration.h", "df/df2/_c_c_configuration_8h.html", null ],
-    [ "CCDirector.h", "da/d05/_c_c_director_8h.html", null ],
-    [ "ccFPSImages.h", "dc/de1/cc_f_p_s_images_8h.html", null ],
-    [ "CCScheduler.h", "d5/d91/_c_c_scheduler_8h.html", null ]
+    [ "CCConfiguration.h", "df/df2/_c_c_configuration_8h.html", "df/df2/_c_c_configuration_8h" ],
+    [ "CCDirector.h", "da/d05/_c_c_director_8h.html", "da/d05/_c_c_director_8h" ],
+    [ "ccFPSImages.h", "dc/de1/cc_f_p_s_images_8h.html", "dc/de1/cc_f_p_s_images_8h" ],
+    [ "CCScheduler.h", "d5/d91/_c_c_scheduler_8h.html", "d5/d91/_c_c_scheduler_8h" ]
 ];
