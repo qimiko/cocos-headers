@@ -18,13 +18,14 @@ var searchData=
   ['hidekeyboard_15',['HideKeyboard',['../d4/db4/classcocos2d_1_1_c_c_e_g_l_view.html#a8a077aad24f417faaa3d3e5b832d5920',1,'cocos2d::CCEGLView']]],
   ['hideoutshowin_16',['hideOutShowIn',['../d1/dc8/classcocos2d_1_1_c_c_transition_scene.html#a6777eebefb69c380153ea7441f4e895d',1,'cocos2d::CCTransitionScene']]],
   ['highestatlasindexinchild_17',['highestAtlasIndexInChild',['../dd/d95/classcocos2d_1_1_c_c_sprite_batch_node.html#aa02649cba6b9d67ecab7aa0cfd098a4f',1,'cocos2d::CCSpriteBatchNode']]],
-  ['hsv_18',['HSV',['../d6/d91/structcocos2d_1_1extension_1_1_h_s_v.html',1,'cocos2d::extension']]],
-  ['hsvfromrgb_19',['HSVfromRGB',['../d4/d57/classcocos2d_1_1extension_1_1_c_c_control_utils.html#ae95063bfa718070a5fe45c6773ce537b',1,'cocos2d::extension::CCControlUtils']]],
-  ['httpclient_2eh_20',['HttpClient.h',['../d8/d12/_http_client_8h.html',1,'']]],
-  ['httprequest_2eh_21',['HttpRequest.h',['../d3/d95/_http_request_8h.html',1,'']]],
-  ['httprequesttype_22',['HttpRequestType',['../da/d7c/classcocos2d_1_1extension_1_1_c_c_http_request.html#acf6ba97a96aec1674311ce89b0a8569d',1,'cocos2d::extension::CCHttpRequest']]],
-  ['httpresponse_2eh_23',['HttpResponse.h',['../d1/d33/_http_response_8h.html',1,'']]],
-  ['httpresponse_5fselector_24',['httpresponse_selector',['../d3/d95/_http_request_8h.html#a293b9d60c8af23f088507859735eb1f2',1,'HttpRequest.h']]],
-  ['hueslidervaluechanged_25',['hueSliderValueChanged',['../d3/def/classcocos2d_1_1extension_1_1_c_c_control_colour_picker.html#a0edadbec3321c2d9ec28f5e558f1b40e',1,'cocos2d::extension::CCControlColourPicker']]],
-  ['human_20machine_20interation_26',['Human Machine Interation',['../dc/df1/group__input.html',1,'']]]
+  ['hj_5fadd_18',['HJ_ADD',['../d9/dc8/cc_macros_8h.html#a5e14e3c00a34f0797b3c52afd74576d1',1,'ccMacros.h']]],
+  ['hsv_19',['HSV',['../d6/d91/structcocos2d_1_1extension_1_1_h_s_v.html',1,'cocos2d::extension']]],
+  ['hsvfromrgb_20',['HSVfromRGB',['../d4/d57/classcocos2d_1_1extension_1_1_c_c_control_utils.html#ae95063bfa718070a5fe45c6773ce537b',1,'cocos2d::extension::CCControlUtils']]],
+  ['httpclient_2eh_21',['HttpClient.h',['../d8/d12/_http_client_8h.html',1,'']]],
+  ['httprequest_2eh_22',['HttpRequest.h',['../d3/d95/_http_request_8h.html',1,'']]],
+  ['httprequesttype_23',['HttpRequestType',['../da/d7c/classcocos2d_1_1extension_1_1_c_c_http_request.html#acf6ba97a96aec1674311ce89b0a8569d',1,'cocos2d::extension::CCHttpRequest']]],
+  ['httpresponse_2eh_24',['HttpResponse.h',['../d1/d33/_http_response_8h.html',1,'']]],
+  ['httpresponse_5fselector_25',['httpresponse_selector',['../d3/d95/_http_request_8h.html#a293b9d60c8af23f088507859735eb1f2',1,'HttpRequest.h']]],
+  ['hueslidervaluechanged_26',['hueSliderValueChanged',['../d3/def/classcocos2d_1_1extension_1_1_c_c_control_colour_picker.html#a0edadbec3321c2d9ec28f5e558f1b40e',1,'cocos2d::extension::CCControlColourPicker']]],
+  ['human_20machine_20interation_27',['Human Machine Interation',['../dc/df1/group__input.html',1,'']]]
 ];
