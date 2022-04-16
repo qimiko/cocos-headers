@@ -1,0 +1,30 @@
+name: documentation
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  documentation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+      
+      - name: Generate documentation
+        uses: mattnotmitt/doxygen-action@v1.9.2
+        with:
+          working-directory: 'document/'
+          
+      - name: Deploy documentation 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.3.0
+        with:
+          branch: docs
+          folder: document/html
