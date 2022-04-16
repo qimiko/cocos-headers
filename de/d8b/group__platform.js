@@ -10,6 +10,7 @@ var group__platform =
       [ "gameDidSave", "d3/d8b/classcocos2d_1_1_c_c_application_protocol.html#a2176644649662f7a757ebdedfba62788", null ],
       [ "getCurrentLanguage", "d3/d8b/classcocos2d_1_1_c_c_application_protocol.html#a866f0264b41d6006474eda28f3cae4f3", null ],
       [ "getTargetPlatform", "d3/d8b/classcocos2d_1_1_c_c_application_protocol.html#a2552f1f296bed6cd14c031003788b5be", null ],
+      [ "openURL", "d3/d8b/classcocos2d_1_1_c_c_application_protocol.html#a330999f5122c2c98d8a28ed845c94e35", null ],
       [ "setAnimationInterval", "d3/d8b/classcocos2d_1_1_c_c_application_protocol.html#abd7a1ae0c0c03d5231c0072cbd2d613f", null ],
       [ "trySaveGame", "d3/d8b/classcocos2d_1_1_c_c_application_protocol.html#aa110375b1437fce64e5cd79eed4cdb7f", null ]
     ] ],
@@ -76,6 +77,7 @@ var group__platform =
       [ "loadFilenameLookupDictionaryFromFile", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#a1dc6efa338de97eb29fd02dd14d214de", null ],
       [ "purgeCachedEntries", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#a3ba4ea8dbcc361e1cd8f538c9df532ac", null ],
       [ "removeAllPaths", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#a4d1908b0c9f91a670680ed9a21b9d5e5", null ],
+      [ "removeFullPath", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#ade5f982fdcbbbd3e973c3367c1355b6a", null ],
       [ "removeSearchPath", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#aadadc6d4dda8177f7fb7f05e311db89f", null ],
       [ "setFilenameLookupDictionary", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#a1c20f6ddcca02d59647764bb1c12aca8", null ],
       [ "setPopupNotify", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#ab77b27a2b083ab1cd1ae193915b0b53d", null ],

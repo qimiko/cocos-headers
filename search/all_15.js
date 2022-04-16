@@ -1,8 +1,8 @@
 var searchData=
 [
   ['v_0',['v',['../d0/d46/structcc_tex2_f.html#a6aa41fccbb69ea7670e19627be2fe7c7',1,'ccTex2F::v()'],['../d6/d91/structcocos2d_1_1extension_1_1_h_s_v.html#a3b90d5a73541ab9402511d87bed076ef',1,'cocos2d::extension::HSV::v()'],['../d3/d59/structcc_h_s_v_value.html#a48d9522e58fa05906c6dba23e5745a72',1,'ccHSVValue::v()']]],
-  ['value_1',['Value',['../de/d13/classtinyxml2_1_1_x_m_l_node.html#acaafdc8b04d25bcf02957d7ca99ff88e',1,'tinyxml2::XMLNode::Value()'],['../dc/d22/classtinyxml2_1_1_x_m_l_attribute.html#acaafdc8b04d25bcf02957d7ca99ff88e',1,'tinyxml2::XMLAttribute::Value()']]],
-  ['value_2',['value',['../d8/d79/classcocos2d_1_1extension_1_1_c_c_color3b_object.html#a37f5ed60c30c942d3c5a7b8310b49408',1,'cocos2d::extension::CCColor3bObject']]],
+  ['value_1',['value',['../d8/d79/classcocos2d_1_1extension_1_1_c_c_color3b_object.html#a37f5ed60c30c942d3c5a7b8310b49408',1,'cocos2d::extension::CCColor3bObject']]],
+  ['value_2',['Value',['../de/d13/classtinyxml2_1_1_x_m_l_node.html#acaafdc8b04d25bcf02957d7ca99ff88e',1,'tinyxml2::XMLNode::Value()'],['../dc/d22/classtinyxml2_1_1_x_m_l_attribute.html#acaafdc8b04d25bcf02957d7ca99ff88e',1,'tinyxml2::XMLAttribute::Value()']]],
   ['valueforkey_3',['valueForKey',['../d7/d5f/classcocos2d_1_1_c_c_dictionary.html#a0e2710d615f73de037391d858ad4c3f0',1,'cocos2d::CCDictionary::valueForKey(const std::string &amp;key)'],['../d7/d5f/classcocos2d_1_1_c_c_dictionary.html#a7947ece342b29ecf91ff17e7d3e4d403',1,'cocos2d::CCDictionary::valueForKey(intptr_t key)']]],
   ['valueforlocation_4',['valueForLocation',['../d1/d6f/classcocos2d_1_1extension_1_1_c_c_control_slider.html#a2a1cb06a73b3579521ff41d606b4c977',1,'cocos2d::extension::CCControlSlider']]],
   ['vec2fromstring_5',['vec2FromString',['../d4/dd7/class_d_s___dictionary.html#a36dbd0980323af0c7c876ad3fea68ee3',1,'DS_Dictionary']]],

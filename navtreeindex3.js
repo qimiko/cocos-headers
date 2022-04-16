@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"d1/d72/classcocos2d_1_1_c_c_hide.html#ac8cae2d59252ed4c924a6c0ec86527db":[6,0,52,4],
 "d1/d72/classcocos2d_1_1_c_c_hide.html#afbe3ac6107114da1d598fd9fd4378a8d":[6,0,52,2],
 "d1/d77/classcocos2d_1_1_c_c_ease_exponential_in.html":[6,0,16],
 "d1/d77/classcocos2d_1_1_c_c_ease_exponential_in.html#a7deef7eca6eb4d15edc6e3fcc037062b":[6,0,16,1],
@@ -233,12 +234,12 @@ var NAVTREEINDEX3 =
 "d2/d6c/classcocos2d_1_1_c_c_jump_to.html":[6,0,74],
 "d2/d6c/classcocos2d_1_1_c_c_jump_to.html#af26f2fb75e2d69dcd6f383eddab50ef7":[6,0,74,1],
 "d2/d6c/classcocos2d_1_1_c_c_jump_to.html#afbe3ac6107114da1d598fd9fd4378a8d":[6,0,74,0],
-"d2/d6d/classtinyxml2_1_1_x_m_l_comment.html":[8,0,1,5],
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html":[7,0,2,5],
+"d2/d6d/classtinyxml2_1_1_x_m_l_comment.html":[8,0,1,5],
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a0381ef1e952851b1a5f8d29a762d6423":[7,0,2,5,1],
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a0381ef1e952851b1a5f8d29a762d6423":[8,0,1,5,1],
-"d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a188ebe00a12e814c9bc402f0bdbda645":[8,0,1,5,5],
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a188ebe00a12e814c9bc402f0bdbda645":[7,0,2,5,5],
+"d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a188ebe00a12e814c9bc402f0bdbda645":[8,0,1,5,5],
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a267e4ff1a6677097ea55b545c2d7f712":[7,0,2,5,9],
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a267e4ff1a6677097ea55b545c2d7f712":[8,0,1,5,9],
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a4eee3bda60c60a30e4e8cd4ea91c4c6e":[7,0,2,5,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a86d6a817cbd9a367f41dcfea8332e751":[8,0,1,5,3],
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#a86d6a817cbd9a367f41dcfea8332e751":[7,0,2,5,3],
 "d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#ab93db16be874cc7459304e6e4f772471":[8,0,1,5,4],
-"d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#ab93db16be874cc7459304e6e4f772471":[7,0,2,5,4],
-"d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#aca2bafd29ddbdff98e607f7fc8a726de":[8,0,1,5,6]
+"d2/d6d/classtinyxml2_1_1_x_m_l_comment.html#ab93db16be874cc7459304e6e4f772471":[7,0,2,5,4]
 };

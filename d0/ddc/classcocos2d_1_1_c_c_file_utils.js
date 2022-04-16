@@ -26,6 +26,7 @@ var classcocos2d_1_1_c_c_file_utils =
     [ "loadFilenameLookupDictionaryFromFile", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#a1dc6efa338de97eb29fd02dd14d214de", null ],
     [ "purgeCachedEntries", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#a3ba4ea8dbcc361e1cd8f538c9df532ac", null ],
     [ "removeAllPaths", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#a4d1908b0c9f91a670680ed9a21b9d5e5", null ],
+    [ "removeFullPath", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#ade5f982fdcbbbd3e973c3367c1355b6a", null ],
     [ "removeSearchPath", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#aadadc6d4dda8177f7fb7f05e311db89f", null ],
     [ "setFilenameLookupDictionary", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#a1c20f6ddcca02d59647764bb1c12aca8", null ],
     [ "setPopupNotify", "d0/ddc/classcocos2d_1_1_c_c_file_utils.html#ab77b27a2b083ab1cd1ae193915b0b53d", null ],

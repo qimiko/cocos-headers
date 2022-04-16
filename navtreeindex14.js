@@ -1,5 +1,7 @@
 var NAVTREEINDEX14 =
 {
+"d7/d51/classcocos2d_1_1_c_c_data_visitor.html#aacb185062eec5ea97589551fe51db263":[6,1,4,1],
+"d7/d51/classcocos2d_1_1_c_c_data_visitor.html#acdc1a465b47be7b8bed9656c665c0b56":[6,1,4,4],
 "d7/d51/classcocos2d_1_1_c_c_data_visitor.html#ad04c280149a038ad4e004ef659c63f61":[6,1,4,2],
 "d7/d51/classcocos2d_1_1_c_c_data_visitor.html#ae1297273198d7a66356d48aae3f3963e":[6,1,4,5],
 "d7/d5f/classcocos2d_1_1_c_c_dictionary.html":[6,1,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX14 =
 "d7/d98/classcocos2d_1_1_c_c_i_m_e_delegate.html#aa8a28f0e8875aeed889a539a437ec2dc":[6,6,4,0],
 "d7/d98/classcocos2d_1_1_c_c_i_m_e_delegate.html#ac3959287df6d13d89b930b3cd2774a95":[6,6,4,2],
 "d7/d98/classcocos2d_1_1_c_c_i_m_e_delegate.html#ae31374bd4d4dbf24369c41b34b78bb6e":[6,6,4,8],
-"d7/d9c/structcc_font_shadow.html":[8,0,12],
-"d7/d9c/structcc_font_shadow.html#a0dfeac3d6ad82b8da23e46ce4db3b383":[8,0,12,3],
-"d7/d9c/structcc_font_shadow.html#a4504b64cc75d7bfd6083b69332883f71":[8,0,12,2]
+"d7/d9c/structcc_font_shadow.html":[8,0,12]
 };
